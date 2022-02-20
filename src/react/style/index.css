@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+$blue: #056ef0;
+$column: 200px;
+
+*{
+	color: white;
+	
+}
+
+::placeholder {
+	color: gray;
+}
